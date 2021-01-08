@@ -4,7 +4,7 @@ This repository was created so that I may learn more about android developent be
 I wanted to get a headstart as creating the required To Do app sparked an interest in creating android applications
 
 ## Current Progress: 01/08/2021
-![](01_08_21_Progress.gif)
+![](./01_08_21_Progress.gif)
 
 So far I have implemented a splash screen, and created most of the UI.
 I am missing the add, remove, and edit functions.
