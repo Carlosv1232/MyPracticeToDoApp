@@ -18,11 +18,10 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="158dp"
-        android:text="Do Your Shit App"
+        android:text="Do Your Stuff App"
         android:textColor="@android:color/black"
         android:textSize="32sp"
-        android:textStyle="bold"
-        tools:text="Do Your Shit App" />
+        android:textStyle="bold"/>
 
 
 </RelativeLayout>
